@@ -24,4 +24,3 @@ target/*
 # ignore submission files
 hw*.zip
 
-lahman.db
